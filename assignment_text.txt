@@ -1,0 +1,125 @@
+Congratulations! 
+
+Your profile has been shortlisted for the assignment round for the position of Full Stack Web 
+
+Developer Intern at BeyondChats. 
+
+This is a paid position, and this assignment will help us get a better understanding of your 
+
+expertise. 
+
+If you have any queries, please send us a message on Internshala. 
+
+1 / 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your Task 
+
+Your task is divided into 3 phases. 
+
+Phase 1: (Moderate Difficulty) 
+
+Scrape articles from the last page of the blogs section of BeyondChats.  
+(You can fetch the 5 oldest articles) 
+URL: https://beyondchats.com/blogs/ 
+
+Store these articles in a database. 
+
+Create CRUD APIs these articles 
+
+Phase 2: (Very Difficult) 
+
+Create a NodeJS based script / project. 
+
+Fetch the articles from API you created in previous task 
+
+The script: 
+
+●  Searches this article’s title on Google. 
+●  Fetches the first two links from Google Search results that are blogs or articles 
+
+published by other websites. 
+
+●  Scrapes the main content from these two articles you found on Google Search. 
+●  Calls an LLM API to update the original article and make its formatting, content 
+
+similar to the two new articles that were ranking on top of Google. 
+
+●  Publish the newly generated article using the CRUD APIs created in previous Phase. 
+●  Make sure to cite reference articles (that you scraped from Google Search results) at 
+
+the bottom of the newly generated article. 
+
+Phase 3: (Very Easy) 
+
+Create a small ReactJS-based frontend project that fetches articles from the Laravel APIs 
+and displays them in a responsive, professional UI. (The original articles as well as their 
+update versions) 
+
+2 / 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Submission Guidelines 
+
+●  We will evaluate you based on the following criteria: 
+
+○  Completeness -> 40% 
+○  ReadMe & setup docs -> 25% 
+○  UI/UX -> 15% 
+○  Live Link -> 10% 
+○  Code Quality -> 10% 
+
+●  Please submit a git repo which contains your code 
+
+●  Please ensure you commit frequently so we can follow your development journey. 
+
+●  Please make sure your repo also includes a ReadMe file with the following details: 
+
+○  Local setup instructions. 
+○  Data flow diagram / Architecture diagram to quickly get a summary of the 
+
+entire project. 
+
+○  A live link for your frontend project where we can check the original article as 
+
+well as the updated article. 
+
+●  Make sure your git repo is publicly accessible so our team can review your 
+
+submission. 
+
+Note: 
+
+●  Please make the submission before the due date. (Wednesday) 31 Dec, 11:59 pm IST. 
+
+●  Your code is your property and we promise to not use any part of your submission 
+
+unless we select you for this employment opportunity. 
+
+ALL THE BEST! 
+
+3 / 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
